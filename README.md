@@ -1,1 +1,2 @@
-# jobkred_livechat
+1) Using Pusher package for broadcasting
+2) 
