@@ -4,3 +4,7 @@
 
 Tutorial based on this:
 https://blog.pusher.com/how-to-build-a-laravel-chat-app-with-pusher/
+
+
+Found another docs for real time private chat:
+https://pusher-community.github.io/real-time-laravel/chat/chat.html
